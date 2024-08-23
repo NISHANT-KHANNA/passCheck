@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/passCheck/static/css/main.9d1386d8.css",
+    "main.js": "/passCheck/static/js/main.cb9f9c9c.js",
+    "static/media/poppins-latin-400-normal.woff": "/passCheck/static/media/poppins-latin-400-normal.1458587c0aa7cd06b82b.woff",
+    "static/media/poppins-latin-400-normal.woff2": "/passCheck/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff": "/passCheck/static/media/poppins-latin-ext-400-normal.cf7e1ed83eb19f7b1ea6.woff",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/passCheck/static/media/poppins-latin-ext-400-normal.6f94f40f848d79872444.woff2",
+    "index.html": "/passCheck/index.html",
+    "main.9d1386d8.css.map": "/passCheck/static/css/main.9d1386d8.css.map",
+    "main.cb9f9c9c.js.map": "/passCheck/static/js/main.cb9f9c9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d1386d8.css",
+    "static/js/main.cb9f9c9c.js"
+  ]
+}
